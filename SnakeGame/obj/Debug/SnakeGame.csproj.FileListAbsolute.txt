@@ -1,0 +1,15 @@
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+E:\repos\SnakeGame\SnakeGame\obj\Debug\MainWindow.g.cs
+E:\repos\SnakeGame\SnakeGame\obj\Debug\App.g.cs
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+E:\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+E:\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+E:\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+E:\repos\SnakeGame\SnakeGame\obj\Debug\MainWindow.baml
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.g.resources
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+E:\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
